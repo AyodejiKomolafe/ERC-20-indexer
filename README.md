@@ -13,7 +13,7 @@ Fork this repo and build out more features! This is minimalistic on purpose.
 
 We purposefully built this app to be minimalistic so that you can get some software development practice in fixing our bugs! 🪲
 
-Here are a few challenge suggestions:
+Here are the challenges I Implemented:
 
 1. Add Wallet integration so that any user that connects their wallet can check their ERC-20 token balance
 2. There is no indication of a request in progress... that's bad UX! Do you think you can add some sort of indication of loading?
