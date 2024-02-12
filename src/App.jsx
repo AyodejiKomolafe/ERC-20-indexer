@@ -21,7 +21,7 @@ import { ethers } from "ethers";
 
 const provider = new ethers.providers.Web3Provider(window.ethereum);
 const config = {
-  apiKey: "41OudlYcEsCtkZqFwVEID_D3SI6vfJAm",
+  apiKey: "Input alchemy api key here",
   network: Network.ETH_MAINNET,
 };
 const alchemy = new Alchemy(config);
